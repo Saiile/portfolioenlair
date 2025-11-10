@@ -1,5 +1,30 @@
-# Vue 3 + Vite
+# 🌐 Portfolio – Vue.js & TailwindCSS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Bienvenue sur le dépôt de mon **portfolio personnel**, développé avec **Vue.js 3**, **Vite** et **TailwindCSS**.  
+Ce portfolio présente mes compétences, mes projets, ainsi que les technologies que j’utilise au quotidien.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+**Portfolio :**  
+https://portfolioenlair-8vuhy2vmh-saiiles-projects.vercel.app/#skills
+
+---
+
+## 🚀 Stack 
+
+- **Vue.js**
+- **Vite**
+- **TailwindCSS**
+- **JavaScript**
+
+---
+
+
+
+## 📦 Installation & Développement
+
+Clone le projet puis installe les dépendances :
+
+```bash
+git clone  + URL du repo
+cd my-folio
+npm install
+npm run dev
