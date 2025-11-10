@@ -4,7 +4,7 @@ Bienvenue sur le dépôt de mon **portfolio personnel**, développé avec **Vue.
 Ce portfolio présente mes compétences, mes projets, ainsi que les technologies que j’utilise au quotidien.
 
 **Portfolio :**  
-https://portfolioenlair-8vuhy2vmh-saiiles-projects.vercel.app/#skills
+https://portfolioenlair-8vuhy2vmh-saiiles-projects.vercel.app/
 
 ---
 
