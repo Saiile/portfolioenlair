@@ -5,7 +5,9 @@
       <h2 class="innovarFont text-4xl md:text-5xl font-bold mb-16 text-black">
         Contact
       </h2>
-      <p class="Isenheim text-lg md:text-xl">Contactez moi pour des nouveaux projet !</p>
+      <p class="Isenheim text-lg md:text-xl">
+        Contactez moi pour des nouveaux projet !
+      </p>
 
       <div class="flex flex-col items-center gap-12">
         <div class="bg-white rounded-lg p-8 w-full max-w-lg">

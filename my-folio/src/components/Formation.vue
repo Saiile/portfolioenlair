@@ -14,9 +14,9 @@
             <div
               class="bg-gray-100 rounded-lg p-6 hover:scale-110 transition-all duration-300"
             >
-              <p class="Isenheim text-sm text-gray-500 mb-2 block"
-                >2022 - 2024</p
-              >
+              <p class="Isenheim text-sm text-gray-500 mb-2 block">
+                2022 - 2024
+              </p>
               <h3 class="Isenheim text-xl font-bold text-black mb-2">
                 Webacademie Epitech Strasbourg
               </h3>
@@ -30,9 +30,9 @@
             <div
               class="bg-gray-100 rounded-lg p-6 hover:scale-110 transition-all duration-300"
             >
-              <p class="Isenheim text-sm text-gray-500 mb-2 block"
-                >2025 - 2028</p
-              >
+              <p class="Isenheim text-sm text-gray-500 mb-2 block">
+                2025 - 2028
+              </p>
               <h3 class="Isenheim text-xl font-bold text-black mb-2">
                 Pré-MSC Epitech Montpellier
               </h3>
@@ -56,9 +56,9 @@
             <div
               class="bg-gray-100 rounded-lg p-6 hover:scale-110 transition-all duration-300"
             >
-              <p class="Isenheim text-sm text-gray-500 mb-2 block"
-                >2023 - 2024</p
-              >
+              <p class="Isenheim text-sm text-gray-500 mb-2 block">
+                2023 - 2024
+              </p>
               <h3 class="Isenheim text-xl font-bold text-black mb-2">
                 Alternance Developpeur Web
               </h3>

@@ -1,0 +1,24 @@
+{
+  "printWidth": 500,
+  "htmlWhitespaceSensitivity": "ignore",
+  "singleAttributePerLine": false,
+  "bracketSameLine": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "quoteProps": "as-needed",
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "printWidth": 500,
+        "singleAttributePerLine": false,
+        "htmlWhitespaceSensitivity": "ignore"
+      }
+    }
+  ]
+}

@@ -75,7 +75,6 @@ const projects = [
     github: "https://github.com/Saiile/Jobboard",
     gif: stanleyjobGif,
   },
-  
 ];
 </script>
 
