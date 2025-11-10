@@ -12,7 +12,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-html5-plain-wordmark colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">HTML5</span>
+          <span class="Isenheim font-medium text-black">HTML5</span>
         </div>
 
         <div
@@ -21,7 +21,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-css3-plain-wordmark colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">CSS</span>
+          <span class="Isenheim font-medium text-black">CSS</span>
         </div>
 
         <div
@@ -30,7 +30,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-php-plain colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">PHP</span>
+          <span class="Isenheim font-medium text-black">PHP</span>
         </div>
 
         <div
@@ -39,7 +39,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-javascript-plain colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">Javascript</span>
+          <span class="Isenheim font-medium text-black">Javascript</span>
         </div>
 
         <div
@@ -48,7 +48,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-react-original-wordmark colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">React</span>
+          <span class="Isenheim font-medium text-black">React</span>
         </div>
 
         <div
@@ -57,7 +57,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-vuejs-plain-wordmark colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">Vue.js</span>
+          <span class="Isenheim font-medium text-black">Vue.js</span>
         </div>
 
         <div
@@ -66,7 +66,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-mysql-plain-wordmark colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">MySQL</span>
+          <span class="Isenheim font-medium text-black">MySQL</span>
         </div>
 
         <div
@@ -75,7 +75,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-python-plain colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">Python</span>
+          <span class="Isenheim font-medium text-black">Python</span>
         </div>
 
         <div
@@ -84,7 +84,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-nodejs-plain-wordmark colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">Node</span>
+          <span class="Isenheim font-medium text-black">Node</span>
         </div>
 
         <div
@@ -93,7 +93,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-java-plain colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">Java</span>
+          <span class="Isenheim font-medium text-black">Java</span>
         </div>
 
         <div
@@ -102,7 +102,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-laravel-original colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">Laravel</span>
+          <span class="Isenheim font-medium text-black">Laravel</span>
         </div>
 
         <div
@@ -111,7 +111,7 @@
           <div class="w-24 h-24 flex items-center justify-center">
             <i class="devicon-docker-plain colored text-5xl"></i>
           </div>
-          <span class="font-medium text-black">Docker</span>
+          <span class="Isenheim font-medium text-black">Docker</span>
         </div>
       </div>
     </div>
